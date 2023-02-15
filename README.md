@@ -1,7 +1,6 @@
 👋 &nbsp; Hi, I’m Martin Kristensen <br><br>
 🇩🇰 &nbsp; I'm from Denmark <br><br>
 💻 &nbsp; I am a Frontend Developer <br><br>
-💼 &nbsp; I'm currently working at: Checkmate Digital Bureau <br><br>
 🏆 &nbsp; My goal is to master Frontend development <br><br>
 ⚡ &nbsp; Currently learning: Javascript & Vue.js
 
