@@ -2,7 +2,7 @@
 🇩🇰 &nbsp; I'm from Denmark <br><br>
 💻 &nbsp; I am a Frontend Developer <br><br>
 🏆 &nbsp; My goal is to master Frontend development <br><br>
-⚡ &nbsp; Currently learning: Javascript & Vue.js
+⚡ &nbsp; Currently learning: Vue.js & Nuxt.js
 
 <!---
 Martin-Kristensen-WD/Martin-Kristensen-WD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
